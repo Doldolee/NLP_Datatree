@@ -1,13 +1,21 @@
-# NLP_bert.lda
+# 웹 자연어 분석 서비스 코어 모델
 
-# Sentiment_AI_BERT & LDA
-Datatree_AI Project
+### 프로젝트 추진배경
+데이터트리 바우처 사업 
 
-AI빅데이터 필터링 솔루션 on WEB<br/>
-core model 1 : sentiment_BERT<br/>
-core model 2 : LDA topic modeling
+### 기능
+- 자연어 감성분석
+- 자연어 토픽분석
 
-#Tensorflow2.0<br/>
-#GPU<br/>
-#BERT<br/>
-#CNN<br/>
+### 프로젝트 수행 기간
+ 2021.2. ~ 2021.7
+
+### 알고리즘
+- Bert
+- LDA
+- CNN
+
+### 기술 스택
+- Tensorflow
+- GPU
+
